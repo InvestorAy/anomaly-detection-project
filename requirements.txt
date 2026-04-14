@@ -3,4 +3,4 @@ pandas
 numpy
 scikit-learn
 joblib
-keras
+tensorflow-cpu
